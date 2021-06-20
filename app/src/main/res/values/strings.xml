@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoroutinesApp</string>
+    <string name="image_from_the_internet">Image from the internet</string>
+</resources>
